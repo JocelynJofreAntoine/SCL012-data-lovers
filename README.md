@@ -79,15 +79,16 @@ Las historias de usuario están basadas en las necesidades que tiene el usuario 
 ## Prototipo
 
 Prototipo baja calidad Celular 
-![ prototipo](/src/img/ProtBC.png)
+
+![ sketch](/src/img/ProtBC.PNG)
 
 Protitipo alta calidad Celular
 
-![ prototipo](/src/img/ProtAC.png)
+![ sketch](/src/img/ProtAC.PNG)
 
 Protitipo alta calidad Web
 
-![ prototipo](/src/img/ProtACWeb.png)
+![ sketch](/src/img/ProtACWeb.PNG)
 
 
 Prototipo de alta calidad Celular, puedes interactuar en el siguiente link: 
