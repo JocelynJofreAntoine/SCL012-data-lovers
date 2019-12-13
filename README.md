@@ -15,13 +15,13 @@
 
 ## Introducción
 
-Pokémon GO es una aplicación que permite a los jugadores de esta poder acceder a distinta información sobre sus Pokémon, todo lo que necesiten saber pueden encontrarla en en esta app. 
+Poke GO es una aplicación que permite a los jugadores de esta poder acceder a distinta información sobre sus Pokémon, todo lo que necesiten saber pueden encontrarla en en esta app. 
 
 ***
 
 ## Definición del Producto
 
-Poke GO es una aplicación, que esta diseñada para que los usuarios puedan conocer toda la información de los Pokémon de la región Kanto. En esta el usuario podra acceder a distintos datos e imagenes de cada unos de los Pokemon, tambien podran filtrar según su tipo, orden alfabetico, número en la Pokedex, tambien podran algunos datos extras. 
+Poke GO es una aplicación, que esta diseñada para que los usuarios puedan conocer toda la información de los Pokémon de la región Kanto. En esta el usuario podra acceder a distintos datos e imagenes de cada unos de los Pokémon.
 
 ***
 
@@ -33,7 +33,7 @@ El objetivo de esta aplicacion es que el usuario pueda conocer todos los datos q
 
 ## Tipo de Usuario
 
-Esta aplicación esta creada para jugadores principiantes, que no tengan mucho conocimiento sobre el mundo Pokemon, siendo principalmente para uso de celular. 
+Esta aplicación esta creada para jugadores principiantes, que no tengan mucho conocimiento sobre el mundo Pokémon, siendo principalmente para uso de celular. 
 
 ***
 
@@ -106,9 +106,9 @@ Elegimos a distintos para realizar un test de usabilidad en cual podían darnos 
 
 * Usuario n°1 
 
-* Usuario n°2
+https://www.loom.com/share/f96002101a77409fbd4465df9a2efde5
 
-* Usuario n°3
+En el video se puede notar que el usuario no tiene problema al usar la aplicación, tambien nos comenta que le resulta muy fácil de usar, ya que puede encontar la información que ella necesita. 
 
 ***
 
